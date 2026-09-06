@@ -1,0 +1,18 @@
+﻿[
+  { "id": "1", "name": "Desk Lamp", "category": "Living", "condition": "New", "age_years": 0.5, "description": "Adjustable LED desk lamp" },
+  { "id": "2", "name": "Coffee Maker", "category": "Kitchen", "condition": "Like New", "age_years": 1, "description": "Drip coffee maker" },
+  { "id": "3", "name": "Backpack", "category": "Fashion", "condition": "Used", "age_years": 2, "description": "Durable travel backpack" },
+  { "id": "4", "name": "Wireless Mouse", "category": "Electronics", "condition": "New", "age_years": 0.1, "description": "Ergonomics wireless mouse" },
+  { "id": "5", "name": "Water Bottle", "category": "Sports", "condition": "New", "age_years": 0, "description": "Insulated stainless steel bottle" },
+  { "id": "6", "name": "Blender", "category": "Kitchen", "condition": "Like New", "age_years": 1.5, "description": "High-speed smoothie blender" },
+  { "id": "7", "name": "Yoga Mat", "category": "Sports", "condition": "Used", "age_years": 1, "description": "Non-slip exercise mat" },
+  { "id": "8", "name": "Headphones", "category": "Electronics", "condition": "Like New", "age_years": 0.8, "description": "Noise-canceling headphones" },
+  { "id": "9", "name": "Bookshelf", "category": "Living", "condition": "Used", "age_years": 3, "description": "3-tier wooden bookshelf" },
+  { "id": "10", "name": "Plant Pot", "category": "Garden", "condition": "New", "age_years": 0, "description": "Ceramic indoor planter" },
+  { "id": "11", "name": "Toaster", "category": "Kitchen", "condition": "Used", "age_years": 2.5, "description": "2-slice stainless toaster" },
+  { "id": "12", "name": "Wall Clock", "category": "Living", "condition": "Like New", "age_years": 1, "description": "Modern silent wall clock" },
+  { "id": "13", "name": "Gaming Keyboard", "category": "Electronics", "condition": "New", "age_years": 0.2, "description": "RGB mechanical keyboard" },
+  { "id": "14", "name": "Running Shoes", "category": "Fashion", "condition": "Used", "age_years": 1.2, "description": "Lightweight running sneakers" },
+  { "id": "15", "name": "Microfiber Towels", "category": "Home", "condition": "New", "age_years": 0, "description": "Pack of 5 quick-dry towels" },
+  { "id": "16", "name": "Desk Chair", "category": "Office", "condition": "Like New", "age_years": 1.8, "description": "Ergonomic mesh office chair" }
+]

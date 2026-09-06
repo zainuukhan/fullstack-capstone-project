@@ -1,0 +1,5 @@
+﻿
+> giftlink-backend@1.0.0 import
+> node util/import-mongo/index.js
+
+Connected successfully to server
